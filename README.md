@@ -4,11 +4,11 @@ This repository is a custom **implementation** of **transformers**, a prevalent 
 
 ## Resources
 
-Various [YouTube](https://youtube.com) videos that helped comprehending the subject (besides the original paper).
+Various [YouTube](https://youtube.com) videos that helped comprehending the subject (besides the [original paper](https://arxiv.org/abs/1706.03762)).
+* [Attention Is All You Need - Paper Explained](https://www.youtube.com/watch?v=XowwKOAWYoQ&t=201s&ab_channel=HalflingWizard).
 * [PyTorch Transformers from Scratch (Attention is all you need)](https://www.youtube.com/watch?v=U0s0f995w14&ab_channel=AladdinPersson).
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy).
 * [minGPT code walkthrough](https://www.youtube.com/watch?v=-6_CvTdzMRY&ab_channel=MarkSaroufim).
-
 
 ## References
 
