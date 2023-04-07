@@ -35,7 +35,7 @@ def main():
     config = GPT2Config.from_pretrained(
         "gpt2",
         vocab_size=len(tokenizer),
-        n_positions=256,
+        n_positions=128,
         n_embd=512,
         n_layer=6,
         n_head=8,
