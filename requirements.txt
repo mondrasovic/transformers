@@ -1,0 +1,17 @@
+black
+flake8
+ipython
+isort
+jupyter
+matplotlib
+mypy
+notebook
+numpy
+pylint
+pytest
+tenforflow_datasets
+tensorflow-addons
+tensorflow-estimator
+tensorflow-text
+tqdm
+yacs
